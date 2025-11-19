@@ -94,13 +94,13 @@ def list_pdf_files():
 
 def select_pdf(pdf_files):
     """
-    Display menu and let user select a PDF file.
+    Display menu and let user select a PDF file or all files.
     
     Args:
         pdf_files (list): List of PDF filenames (including subdirectory paths)
     
     Returns:
-        str: Selected filename or None to quit
+        str or list: Selected filename, "ALL" for all files, or None to quit
     """
     if not pdf_files:
         print("❌ No PDF files found in the pdfs directory")
@@ -110,24 +110,26 @@ def select_pdf(pdf_files):
     print("Available PDF Files:")
     print("="*80)
     print("0. Exit")
-    print("ALL. Process all files")
+    print("1. Process all files")
     
-    for idx, filename in enumerate(pdf_files, 1):
+    for idx, filename in enumerate(pdf_files, 2):
         print(f"{idx}. {filename}")
     
     print("="*80)
     
     while True:
         try:
-            choice = input("\nSelect a file number (or 0 to exit): ").strip()
+            choice = input(f"\nSelect a file number (1 for all files, or 0 to exit): ").strip()
             choice_num = int(choice)
             
             if choice_num == 0:
                 return None
-            elif 1 <= choice_num <= len(pdf_files):
-                return pdf_files[choice_num - 1]
+            elif choice_num == 1:
+                return "ALL"
+            elif 2 <= choice_num <= len(pdf_files) + 1:
+                return pdf_files[choice_num - 2]
             else:
-                print(f"Invalid choice. Please enter a number between 0 and {len(pdf_files)}")
+                print(f"Invalid choice. Please enter a number between 0 and {len(pdf_files) + 1}")
         except ValueError:
             print("Invalid input. Please enter a number.")
 
