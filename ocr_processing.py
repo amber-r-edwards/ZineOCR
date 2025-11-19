@@ -25,8 +25,8 @@ from openai import OpenAI # type: ignore
 import csv
 
 # Configuration
-PDF_DIR = "../HerstoryArchive_FeministNewspapers"
-OUTPUT_DIR = "../HerstoryArchiveTxt"
+PDF_DIR = "/pdf/zinetest" #change to local to the ZineOCR project folder
+OUTPUT_DIR = "/HerstoryArchiveTxt"
 TEMP_DIR_PREFIX = "ocr_temp_"
 
 
