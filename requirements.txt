@@ -1,0 +1,4 @@
+Pillow>=10.0.0
+pytesseract
+pdf2image
+openai>=1.0.0
