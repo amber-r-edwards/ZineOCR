@@ -1,0 +1,153 @@
+IMPORTANT: Process the ENTIRE text from beginning to end. Do not stop early or truncate.
+
+Rules:
+1. Fix obvious OCR errors (like '0' instead of 'O', '1' instead of 'l')
+2. Preserve the original line breaks and text blocks.
+3. Preserve the original meaning and historical context.
+4. Do not add any additional text.
+5. Do not delete any text.
+6. Process EVERY line - do not skip any content.
+
+Corrected text:
+
+Pie ewe os READING. LISTS 8) A CONFERENCE
+
+Off Our Backs
+
+P.O. Box 4859
+
+Cleveland Park Station  
+Washington, D.C., 20008
+
+sub: $5.00/yr; singles: $.25
+
+Aphra
+
+Box 355
+
+Springtown, Pa., 18081
+
+sub: $3.50/yr; singles: $1.00
+
+Everywoman
+
+6516 West 83rd St.
+
+Los Angeles, Calif., 90045  
+sub: $2.50 for 10 issues
+
+The Female State: A Journal of  
+Female Liberation
+
+Female Liberation
+
+371 Somerville Ave.
+
+Somerville, Mass., 02143
+
+Singles: $1.00
+
+It Ain't Me Babe
+
+W.L. Office
+
+2398 Bancroft Ave,  
+Berkeley, Calif., 94704  
+sub: $1.80 for 6 months
+
+Notes from the Second Year:  
+Radical Feminism
+
+P.O. Box AX
+
+Old Chelsea Station  
+New York, N.Y., 10011  
+singles: $1.50
+
+The Pedestal
+
+307 W. Broadway  
+Vancouver, B.C., Canada  
+subs: $1.50/yr
+
+Rat
+
+241 East 14th St.
+
+New York, N.Y., 10008  
+sub: $6.00/yr
+
+Up from Under
+
+339 Lafayette St.
+
+New York, N.Y., 10012  
+sub: $2.50 for 5 issues
+
+Women: A Journal of Liberation  
+3028 Greenmont Ave.
+
+Baltimore, Md., 21218
+
+sub: $5.00/yr
+
+New England Free Press  
+791 Tremont Street  
+Boston, Mass., 02118  
+literature list
+
+Radical Education Project  
+Box 561-A
+
+Detroit, Mich., 48232  
+literature list
+
+Redstockings
+
+P.O. Box 748 Stuyvesant Station  
+New York, N.Y., 10009  
+literature list
+
+Lucinda Cisler-annotated reading  
+list of 600 items on women - $5.25  
+102 W. 80 Street
+
+New York, N.Y., 10024
+
+MONTREAL--Sisters in Montreal  
+Women's Liberation would like to
+
+have a working conference of
+
+North American women's libera-  
+tion groups to coincide with a  
+trip to Montreal and Toronto of  
+North Vietnamese women who have  
+specifically asked to meet women  
+involved in W.L. This could be  
+the start of a coordinated wo-  
+men's movement sharing serious  
+self-criticism about where we  
+started, what we've learned,  
+where we're at, and where we're  
+going. These sisters want to  
+know what you think of such a  
+conference (to be held sometime  
+in October), and what form you  
+would like it to take. Is there  
+a better place for the confer-  
+ence than Montreal (they think  
+Canada would be better because  
+the Vietnamese sisters and Cuban  
+sisters--if they can come at all  
+--can't come to the States)? How  
+many would come from your group?  
+Can you contribute or raise mo-  
+ney?
+
+For more information contact  
+Montreal Women's Liberation,  
+3837 St. Laurent, Montreal H2W 1Y1,  
+Quebec, Canada, 514-844-5838.
+
+(Reprinted from Off Our Backs)

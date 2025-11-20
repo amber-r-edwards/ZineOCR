@@ -1,0 +1,30 @@
+opening connection using: ssh are4@slogin.palmetto.clemson.edu rsync --server -g -l -o -p -D -r -t -v -v -z --dirs . ~/ZineOCR/pdf/ (17 args)
+                                                                     .-''-.    
+     __ _.--..--._ _                                               .' .-.  )   
+  .-' _/   _/\_   \_'-.                                           / .'  / /    
+ |__ /   _/\__/\_   \__|                                         (_/   / /     
+    |___/\_\__/  \___| ______     _                _   _              / /      
+           \__/        | ___ \   | |              | | | |            / /       
+           \__/        | |_/ /_ _| |_ __ ___   ___| |_| |_ ___      . '        
+            \__/       |  __/ _` | | '_ ` _ \ / _ \ __| __/ _ \    / /    _.-')
+             \__/      | |  |(_| | | | | | | |  __/ |_| | |(_)|  .' '  _.'.-'' 
+          ____\__/___  \_|  \__,_|_|_| |_| |_|\___|\__|\__\___/ /  /.-'_.'
+                                                               /    _.'
+                                                              ( _.-'   
+*******************************************************************************
+ Unauthorized access to this machine is prohibited. System use may be monitored
+ and recorded by system personnel. Anyone using this system expressly consents
+ to such monitoring and is advised that if such monitoring reveals possible
+ evidence of criminal activity, system personnel may provide the evidence from
+ such monitoring to law enforcement officials.  All users of this system are
+ governed by the Clemson Cybersecurity IT Policies and Procedures published
+ here https://ccit.clemson.edu/cybersecurity/policy/
+*******************************************************************************
+
+Transfer starting: 486 files
+rsync(68743): error: unexpected end of file
+rsync(68743): error: io_read_nonblocking
+rsync(68743): error: io_read_blocking
+rsync(68743): error: io_read_flush
+rsync(68743): error: rsync_sender
+rsync(68743): warning: child 68745 exited with status 11

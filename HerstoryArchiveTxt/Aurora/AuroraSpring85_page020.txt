@@ -1,0 +1,6 @@
+FEN: DEQ GUTTO i
+
+Lapsing if
+3
+
+volume CWE number CRE

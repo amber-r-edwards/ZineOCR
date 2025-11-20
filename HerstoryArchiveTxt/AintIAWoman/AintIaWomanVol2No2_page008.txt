@@ -1,0 +1,54 @@
+Changing a fuse is an easy thing to do if you know
+
+three things:
+1- where your fuse box is located
+2- what type of fuse you need
+3- what amp fuse you need
+
+Where your fuse box is located
+
+Fuse boxes are generally grey boxes on the wall in the basement, or in the stairwell, or in the kitchen. Sometimes there is more than one fuse box, so it is a good idea to see which part of the house or apartment is connected to which fuse box. You can check by turning the fuse box to the off position and see what lights or appliances go off.
+
+What amp fuse you need
+
+Sometimes on the front of the fuse box it says what amp fuse you need, otherwise unscrew or pry out the fuse (using the instructions above) and see what it says. The numbers run 15, 20, 25, 30 amps. Whatever the number is, that is the same number you should replace it with. A fuse consists of a piece of wire of low melting point. The electric current generates heat. The higher the current, the higher the heat. The fuse melts if the current is too hot, so it is very important not to use a higher fuse than your wires can stand without being overloaded. Overloading wires can cause fire in the walls, and the proper fuse blowing is the only warning.
+
+What type of fuses you need
+
+After you take the fuse out check to see if it has a black burned out spot on it. Some fuse boxes have plug fuses - which have threaded bases like lamps and screw into threaded sockets. You can take them out and replace them without getting a shock because the ends are insulated (just don't stick your fingers into the socket). You don't have to be too concerned whether the power is on or off, since you never touch any exposed metal areas.
+
+Circuit breakers
+
+In some houses there is a circuit breaker rather than a fuse box. It has a handle like a switch and looks like one. It opens when the current gets too hot. All you do is push the handle back up. If the current is still overloaded it will trip again, and you can push it up again.
+
+Common problems
+
+A clothes washer takes 375 watts. While running it takes between 6 and 7 amps of current. When it is in the "wash" stage it needs more current, maybe 25, 30 or 35 amps. If there is a 15 amp fuse, it will blow the circuit. You need a fuse called a "slow-blow" fuse, which is made to handle air conditioners and washing machines. Even though it is rated at 15 amps it will compensate for the extra heavy momentary load.
+
+Here is a list of what different numbered amp fuses can maintain without overloading. Appliances are measured in watts, some appliances have watts or amp measurements on the bottom. One 15 amp fuse can hold 1610-1800 watts. One 20 amp fuse can hold 2300-2400 watts on a 2 wire circuit.
+
+LIGHTING watts
+plug fuse box in 49
+position
+fluorescent lights (each tube)........... 15-40
+table lamps (each)......................... 50-150
+cartridge fuses— which have a fiber body and metal end caps and fit into spring clips and the end caps are exposed, they can give you a shock. To remove a cartridge fuse first turn the power off (it's good to keep a flashlight handy) and then pry out the end with a wooden stick. Do not under any circumstances use metal. If you turn the lights back on to see if the new fuse has worked, make sure you turn the power off again before going back to the fuse box.
+
+APPLIANCES watts
+baker (portable)........................... 800-1000
+broiler-rotisserie.......................... 61326-1650
+coffee percolator.......................... 440-1000
+electric fan (portable).................... 30
+electric toaster............................. 250
+food blender................................. 250
+deep fryer................................... 1500
+electric heater............................... 1500
+record changer............................... 5
+sewing machine.............................. 100
+vacuum cleaner.............................. 500-1200
+
+These appliances should have their OWN fuse: watts
+water heater................................. 22000-4000
+room air conditioner (½ to ¾ ton)...... 1200-1600
+
+Page.
