@@ -25,7 +25,7 @@ from openai import OpenAI # type: ignore
 import csv
 
 # Configuration
-PDF_DIR = "/pdf/zinetest" #change to local to the ZineOCR project folder
+PDF_DIR = "pdf/HerstoryArchive_FeministNewspapers" #change to local to the ZineOCR project folder
 OUTPUT_DIR = "/HerstoryArchiveTxt"
 TEMP_DIR_PREFIX = "ocr_temp_"
 
@@ -303,7 +303,8 @@ def process_pdf(pdf_filename, api_key):
         base_name = Path(pdf_filename.split("/")[1]).stem
     else:
         base_name = Path(pdf_filename).stem
-        publication_name = input(f"Enter publication name for {pdf_filename}: ").strip()
+        publication_name = base_name  # Use filename as publication name instead of prompting
+
     
     # Create publication subdirectory
     output_dir_path = Path(OUTPUT_DIR) / publication_name
@@ -402,32 +403,56 @@ def main():
         if not pdf_files:
             break
         
-        # Let user select a PDF
+        # Let user select a PDF or ALL
         selected_pdf = select_pdf(pdf_files)
         
         if selected_pdf is None:
             print("\n👋 Exiting...")
             break
         
-        # Process the selected PDF
-        success = process_pdf(selected_pdf, api_key)
-        
-        if success:
-            print("\n" + "="*80)
-            print(f"✅ Processing complete!")
+        # Process the selected PDF(s)
+        if selected_pdf == "ALL":
+            print(f"\n🚀 Processing all {len(pdf_files)} files...")
+            success_count = 0
+            error_count = 0
+            
+            for i, pdf_file in enumerate(pdf_files, 1):
+                print(f"\n{'='*80}")
+                print(f"Processing file {i}/{len(pdf_files)}: {pdf_file}")
+                print(f"{'='*80}")
+                
+                success = process_pdf(pdf_file, api_key)
+                
+                if success:
+                    success_count += 1
+                    print(f"✅ {pdf_file} completed successfully")
+                else:
+                    error_count += 1
+                    print(f"⚠️  {pdf_file} encountered errors")
+            
+            print(f"\n{'='*80}")
+            print(f"📊 Batch Processing Complete!")
+            print(f"✅ Successfully processed: {success_count}")
+            print(f"⚠️  Errors encountered: {error_count}")
+            print(f"📁 Total files: {len(pdf_files)}")
+            print(f"{'='*80}")
         else:
-            print("\n" + "="*80)
-            print("⚠️  Processing encountered errors")
+            # Process single file
+            success = process_pdf(selected_pdf, api_key)
+            
+            if success:
+                print("\n" + "="*80)
+                print(f"✅ Processing complete!")
+            else:
+                print("\n" + "="*80)
+                print("⚠️  Processing encountered errors")
         
         # Ask if user wants to continue
         print("="*80)
-        continue_choice = input("\nProcess another file? (yes/no): ").strip().lower()
+        continue_choice = input("\nProcess more files? (yes/no): ").strip().lower()
         
         if continue_choice not in ['yes', 'y']:
             print("\n👋 Exiting...")
             break
     
     print("="*80)
-
-if __name__ == "__main__":
-    main()
