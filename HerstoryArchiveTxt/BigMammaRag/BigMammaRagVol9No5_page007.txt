@@ -1,0 +1,589 @@
+health
+
+(ed. note: Material for this
+article taken from Kinesis
+Vancouver Status of Women;
+
+Healthsharing: A Canadian
+Women's Health Quarterly;
+Toronto Clarion)
+
+and
+
+Video display terminals
+(VDTs) are computer input de-
+vices and/or word processing
+machines. They are comprised
+of a typewriter-like keyboard
+and a television-like picture
+tube which displays informa-
+tion typed at the keyboard
+and/or returned from the com-
+puter's central processing u-
+nit.
+
+The picture tube or cathode
+ray tube (CRT) works on the
+same principles as a televi-
+sion picture tube. A high
+voltage transformer generates
+
+Occupational
+health
+
+between 10,000 and 40,000
+volts (10,000 volts for black
+and white CRT and up to 40,000
+for color CRTs), and feeds
+this voltage to the anode of
+the CRT causing the bright-
+ness of the screen. Herein
+lies the hazards of CRTs.
+This high voltage produces
+ozone and both low-level ion-
+izing and non-ionizing radia-
+tion. Keep in mind that view-
+ers normally sit yards away
+from a television screen, but
+VDT operators sit only inches
+away from the VDT screen. This
+factor along with an average
+of 40 hours a week in front
+
+of the terminal subjects the
+user to unusually large amounts
+of low level radiation. Re-
+member also that television
+viewers were warned back in
+the 1950s not to sit less
+than 6 feet away from their
+
+TV screens.
+
+Video display terminals have
+revolutionized secretarial
+and office work. Their use
+has saved billions of dollars
+for corporate firms by drasti-
+cally lowering the number of
+employees needed to produce
+reports, keep records, and
+perform other "menial" tasks
+as well as save on the costs
+of paper, printing, keypunch-
+ing, and storage space.
+
+The majority of workers us-
+ing VDTs are women... VDTs
+are everywhere: in banks, hos-
+pitals, insurance companies,
+telephone, telegraph offices,
+airlines, railways, buses, news
+newspapers, government offices
+everywhere conceivable and
+
+May, 1981
+
+Page 8 - Big Mama Rag
+
+women are reporting everywhere
+side effects.
+
+The health hazards of VDTs
+fall into two main areas: the
+effects on operators of low-
+level, non-ionizing radiation
+from the machines and what is
+broadly described as poor work-
+place design, leading to vis-
+ual problems. Many of the
+symptoms in both areas are
+similar. In general it has
+seemed easier to convince go-
+vernments and industry to re-
+spond to the poor workplace
+design issue; the radiation
+hazards are more controvers-
+ial. The Food and Drug Ad-
+ministration has discounted
+the effects of constant ex-
+posure to low-level radiation
+in a recently released report.
+In January 1980 NIOSH (Nation-
+
+al Institute for Occupational
+Safety and Health) conducted
+
+a study of health risks ass-
+ociated with working with
+VDTs. Although they found
+
+no significant chemical ex-
+posure or radiation levels a-
+bove government standards,
+they did find higher levels
+
+of visual and musculoskeletal
+problems and more psychologic-
+al distress and job stress.
+Prompted by these discoveries
+unions are seeking independent
+experts and doing their own
+epidemiological studies to
+determine the extent of health
+hazards.
+
+We know that low level ra-
+diation heats up tissue (as
+in microwave ovens) and inter-
+acts with biological systems
+in ways that are not complete-
+ly understood. There are a
+growing number of studies,
+based on experiments with an-
+imals and on observations of
+human beings who work with
+non-ionizing radiation, such
+as radar technicians, that
+suggest there are serious bio-
+logical effects produced by
+exposure to very low levels.
+VDT operators worldwide
+have complained of headaches,
+visual deterioration, changes
+in colour perception, skin
+rashes, dulling sensation in
+the fingertips, general fati-
+gue and irritability, particu-
+lar kinds of cataracts,
+leukemia-like blood diseases,
+interference with reproduc-
+tion and fertility and birth
+defects in the children of
+female and male workers.
+NIOSH's study verified work-
+ers' complaints of: eye sore-
+ness, redness, stinging, ir-
+ritation, general discomfort
+
+in eyes; pain in neck, back
+and arms; dull headaches
+
+sometimes above the eyes;
+
+loss of visual acuity - see-
+ing blurred or double images,
+fuzzy coloured fringes; diz-
+ziness, nausea; problems with
+eyeglasses, contact lenses.
+The NIOSH report recommends
+
+that workers have 10 minutes
+off every hour; that the
+hours on and off should be
+alternated and that the total
+time on machines should be
+limited. In Sweden the limit
+is four hours a day. Unions
+in Sweden and Germany have
+pushed for regular breaks.
+
+Canada's first claim for
+compensation from damages
+caused by VDTs was brought
+by four operators who gave birth
+to children with defects (all
+within a 3 month period). The
+operators worked at the Tor-
+onto Star Newspaper. Govern-
+ment officials from the Min-
+istry of Labour, Occupational
+Health and Safety Dept. test-
+ed the VDTs and reported no
+detectable levels of radia-
+tion.
+
+Two New York Times editors
+developed eye cataracts and
+related their conditions to
+working on VDTs. They lost
+their compensation suit be-
+cause the radiation level
+emitted by the machines they
+worked on was "too low."
+
+Darlene Weiss, employee of
+the Ministry of Transporta-
+tion and Communications in
+Thunder Bay (Canada) opera-
+ted a VDT from Aug. '78 to
+March '80. Before going to
+work on the machines she had
+an eye examination and had
+no problems. She now needs
+
+Health Hazards In The Workplace --
+
+surgery for removal of cat-
+aracts. A 40-year-old woman
+with no medical or family
+history that would account
+for cataracts, she has been
+told cataracts are rare in
+her age group. New York op-
+thalmologist, Milton Zaret
+has examined Weiss and diag-
+nosed her condition as "rad-
+iant energy cataracts caused
+by exposure to radiation from
+VDTs." Zaret has been study-
+ing the ocular effects of
+microwave radiation since
+1959. In a telephone inter-
+view reported in The Toronto
+Clarion (March 13, 1981), he
+said that similar damage has
+occurred to New York journa-
+lists (see above) and air
+traffic controllers who use
+VDTs or other devices such
+as radar. "Some of the first
+cataract victims received
+compensation from New York
+workers' compensation auth-
+orities but succeeding cases
+were denied compensation."
+He also said, "My problem is
+that I have seen people with
+symptoms, but I cannot get
+experimental data. There is
+a body of information on
+chronic low-level exposure
+to microwave radiation that
+people in the U.S. don't like
+to look at, but it happens
+to be accurate. In the Soviet
+Union, it's a compensable
+disease. The connection was
+made 10 years ago, and over
+100 cases have been studied
+there. When a worker gets
+halfway to this sickness,
+they take him out of that
+work."
+
+On March 4, the New York
+State Workmen's Compensation
+Board ruled in a landmark
+decision that chronic expo-
+sure to microwave radiation
+killed a telephone company
+employee. Samuel Yannon work-
+ed for eight years as a su-
+pervisor of relay equipment
+at the Empire State Bldg. He
+developed symptoms of accel-
+erated premature aging and
+died in 1974. "40 years of
+aging were kaleidoscoped into
+the last 10 years of Samuel
+Yannon's life," said Zaret
+who gave expert testimony at
+the hearing. Yannon's symp-
+toms were loss of memory,
+lack of coordination, cat-
+aracts and problems with
+hearing. "The effects of
+chronic exposure to the lens
+of the eye is that the lens
+becomes opaque, there are
+other effects to neurological
+
+health
+
+Radiation Exposure From VDTs
+
+tissues: the transmission of
+electrophysiological data to
+various parts of the brain
+and body are interfered with,
+causing behavioural effects.
+There are other effects re-
+lated to damage to membranes.
+Hopefully, tightening up of
+standards will happen proper-
+ly and quickly, as a result
+of this case. I have suggest-
+ed all along that there be
+different standards for diff-
+erent usages. The biggest
+users are defense departments
+and intelligence agencies,
+air traffic controllers and
+VDT operators. Then there is
+the household use of micro-
+wave ovens. There is a need
+to protect the sick, the old,
+the very young and people on
+medication, all conditions
+which enhance the effects of
+radiation. We should have a
+multi-tiered standard."
+
+The crux of the problem is
+that in North America, the
+dangers of low-level non-
+ionizing radiation are not
+acknowledged. The Canadian
+and U.S. standards for occu-
+pational exposure to micro-
+waves is ten milliwatts per
+centimeter. In the USSR and
+in other European countries
+it is much lower - 1000 times
+lower for the workplace and
+10,000 times lower for the
+general population. They are
+obviously very concerned
+about the hazard of leakages
+that here are called "mini-
+mal, negligible, harmless."
+Pregnant women can't work
+with microwaves in some East-
+ern European countries which
+is a sign of the hazard of
+non-ionizing radiation as
+well as the hazard of being
+a female worker.
+
+In Vancouver, the Workers
+Compensation Bureau assures
+workers that there is no
+danger at the established
+limit of exposure; in fact
+the Board was planning to
+eliminate compensation for
+disease due to exposure to
+non-ionizing radiation.
+Pressure from various groups,
+especially the Newspaper
+Guild, forced the Board to
+back down. Recently on the
+U.S. east coast, some air
+traffic controllers, who work
+with radar were compensated
+for cataracts. Paul Brodeur
+(who wrote Zapping of Ameri-
+ca, a book expose of micro-
+waves and what he describes
+as a massive coverup of the
+problem), said in a recent
+
+visit to Vancouver, British
+Columbia, that the U.S. will
+be changing its standard,
+and that the microelectronic
+industry will have enormous
+lawsuits on its hands.
+
+If governments would uni-
+versally recognize the haz-
+ards of VDTs and impose
+health standards, workers
+and business could benefit.
+Standards that would demand
+developing technology for
+testing, changing machine de-
+signs, demanding quality con-
+trol and maintenance are all
+necessary. Machines placed
+together increase the radia-
+tion danger for all workers.
+Shields should be used to
+protect workers, and glare-
+resistant features should be
+built-in features. Glare from
+the screen, and also from the
+surrounding lights and win-
+dows and surfaces of desks
+all contribute to headaches
+and eye strain and stress.
+The stress from bad position-
+ing, incorrect height of desk
+and chair, angle of the
+screen, and the stress of
+speedup of the workplace
+
+falls on the worker.
+
+Even before women began
+working in the offices on
+VDTs, women, mostly in South-
+ern California (known as the
+"Silicon Valley") have been
+employed in the manufacture
+of microchips. Microchips or
+micro-electronic technology
+is based on the silicon chip,
+which is smaller than a fin-
+gernail. It is possible to
+put all the circuitry of a
+modern computer onto one of
+these chips. The chips are
+called microprocessors. When
+microprocessors are added to
+other electronic gadgets,
+which endow them with a mem-
+ory function, they become
+“intelligent machines" or
+microcomputers. VDTs use
+microchips as do electronic
+toys, calculators, home com-
+
+puters and electronic mail
+
+systems.
+The silicon chips are be-
+
+ing manufactured by women,
+who are being exposed to num-
+erous, toxic, unlabeled, un-
+
+tested substances. In South-
+east Asia it is estimated
+
+that over 300,000 women
+are employed in delicate
+tedious circuitry work, dam-
+aging their eyes and bodies
+and receiving, in some places,
+as little as 10¢ per hour.
+
+Analysis
+
+Bobbe Ross
+
+The builders of technology
+and the buyers of technology
+are one and the same - the
+big boys. Technology is pro-
+gress and big business.
+
+The workforce shifts and
+technology progresses - new
+jobs are offered, old jobs
+are phased out. For the work
+er this means not only re-
+learning, but discarding old
+skills and learning new
+skills, if they are lucky
+enough to hold onto a job.
+It also means new hazards to
+detect and protect against -
+
+the same game goes on, and
+the big boys, patriarchal
+capitalism, always survive
+and profit.
+
+Workers, primarily women
+and minorities, are shifted
+around in the workforce as
+new technology enters the
+field, because we make up
+such a large part of the la-
+bor force and we are the
+ones most affected by the
+health hazards.
+
+It is understood that the
+companies that produce the
+machinery could perfect them
+so there would be no health
+hazards either to the workers
+who make them or to the work-
+ers that use them, but per-
+fecting machinery means time
+and money and workers are a
+throw-away item. We live in a
+society that long ago decided
+
+that working class people
+were dull-witted, capable of
+only using their hands and
+backs, and good to produce
+kids that in turn were dull-
+witted, capable of only using
+their hands and backs and
+good to produce kids. Since
+there are so many of us, it
+is not profitable to keep us
+healthy, the supply is end-
+less and the bosses never
+really assume responsibility
+for our bad health.
+
+Companies that buy and use
+the machinery could further
+protect the workers but
+again - time and money are
+required. If they can crowd
+ten machines into the space
+where only five machines should
+go, have the space lit as
+cheaply as possible, leave
+off safety partitions (eas-
+ier for a straw boss to see
+who is working) well, obvi-
+ously it is saving the user
+company money.
+
+The government may be
+forced by unions to regulate
+the standards of machinery
+and it does so reluctantly
+for, as an old saying goes,
+“what is good for business
+is good for the country,” it
+allows time and legal loop-
+holes to give the company a
+lot of leeway.
+
+In the event that the pro-
+ducer or user company gets
+too many restrictions or the
+union is too demanding,
+either company can move, not
+only within the U.S. border
+but to foreign countries
+where wages will be much low-
+er, restrictions non-existent
+and unions unheard of. Even
+if it means some money paid
+to officials of other coun-
+tries (brothers under the
+skin) the company will still
+profit. At that time the U.S.
+government will decide the
+unemployed worker is getting
+too much unemployment compen-
+sation, AFDC and food stamps
+and will punish the worker
+even more with cutbacks of
+necessary aid.
+
+As feminists, we have to be
+aware of the game but never
+give up learning what is hap-
+pening and working together
+at the workplace and in our
+own communities. We have to
+scream out in a loud voice
+our demands, not only for
+ourselves but for our sisters
+and brothers in other coun-
+tries. Our struggle will
+never be over while there
+is a worker being oppressed.
+
+Big Mama Rag, May, 1981 - Page 9

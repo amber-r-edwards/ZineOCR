@@ -1,0 +1,483 @@
+Big Mama Rag Vol. 7 No. 10
+
+Microelectronics—Does It Byte,
+
+Advances in sensor technology over
+the last 30 years have influenced al-
+most all aspects of working life. Many
+jobs have been completely automated
+and many more are now carried out with
+the aid of computers. Jobs have actual
+ly been created both through the grow-
+th of the computer industry itself,
+and through the expansion of tasks
+which are now made feasible as a re-
+sult of the introduction of computers.
+Making and selling computers is very
+big business: it is reckoned to be
+second only to oil on the world market.
+
+The impact on working life that has
+taken place so far is likely to be
+overshadowed by the future impact of
+new developments in technology. Fears
+that computers were taking over in the
+1950s were common but those views were
+discredited or forgotten when drastic
+changes did not occur. However, mach-
+ines are now being developed capable
+of storing large quantities of infor-
+mation on a few square millimeters of
+a silicon chip and these can be manu-
+factured at a fraction of the cost of
+the circuits of traditional computers.
+These developments make available a
+new generation of computer. These are
+built up from pre-programmed micro-
+computers or microprocessors capable
+of undertaking specific tasks previ-
+ously unsuitable for automation. The
+cost of one microprocessor is now
+around $8 - the 1977 sales reached
+$235 million. It is these miniature
+circuits which enable desktop calcu-
+lating machines which would have cost
+several hundred dollars ten years ago
+to be replaced now by a pocket calcu-
+lator.
+
+Because of the prospective changes
+in working patterns and employment,
+some observers are heralding the se-
+cond industrial revolution - age of
+information - for a whole range of
+tasks which are now performed either
+mechanically or manually will soon
+be performed electronically.
+
+Micros can control production lines
+and the assembly process - an indus-
+trial robot can assemble eight parts
+of a typewriter in 45 seconds. Factory
+maintenance staff will become obsolete
+since the computer can be programmed
+to look after itself. All that will
+be required is a small group of highly
+skilled technicians/programmers.
+
+All clerical work is vulnerable.
+Many information handling tasks have
+already been mechanized - indexing
+systems, accounting machines - but
+machines now available will fundament-
+ally transform secretarial work. Simi-
+lar radical changes will occur in
+banks, large stores, travel agencies
+and hotels. Technical work is similar-
+ly threatened - in design, the number
+of draftspersons required will decline
+as even a simple computer system can
+"draw" 25 times faster than a skilled
+person. Cheaper microprocessors will
+lead to an expansion of computer sales
+to smaller organizations.
+
+It is possible that the reduced
+number of jobs available that may
+result from the introduction of micro-
+electronics into industry could be
+compensated for by the creation of
+new jobs, such as the manufacture of
+consumer goods capitalizing on the
+new technology: TV games, pocket
+calculators, digital watches. Alter-
+natively, workers could transfer to
+other work. After all, new technology
+in agriculture, mining, railways,
+textiles and energy production has
+repeatedly changed the nature of
+work in these areas and microelectro-
+nics could simply be another fairly
+slow and gradual process of adapta-
+tion.
+
+However, this may not happen. In
+the past, displaced workers have
+been absorbed by the labor-intensive
+service industries, the major growth
+area since the war. However, now it
+is these areas which will be affected.
+Over half the workforce is now employ
+ed in services of some kind, compared
+with 30% in 1964 - the majority of
+these workers are women.
+
+Before discussing the possible
+effects of the age of information on
+women's lives, it is worth looking
+at some likely areas of change in
+employment.
+
+There is a direct application of
+computerized techniques to routine
+office work, previously relatively
+unautomated. The development of word
+processing machinery is having the
+most significant effect on office
+work. A word processing machine is
+an electric typewriter with a memory.
+The operator types the required text
+into the machine and previously
+typed passages can be edited or new
+material included. The machine can
+reproduce stored passages in differ-
+ent typefaces and to specified
+column widths. A word processor can
+perform typing tasks at ten times
+the rate of an average secretary.
+With the introduction of these
+machines, it becomes feasible to
+store progressively more information
+electronically, and this will enable
+direct access by users to informa-
+tion, making obsolete many filing,
+library and secretarial staff.
+
+The service industries (employ-
+ing most women) will be the
+most affected by this second
+industrial “revolution.”
+
+Word processors also remove any
+element of skill or experience from
+typing - page layout is done by the
+machine. The typist loses control
+over the machine and is restricted to
+merely feeding the processor with
+words.
+
+Although ideally workers should be
+relieved of tedious, repetitive work,
+the effects on employees is not al-
+ways ideal. In England, one union
+demanded that Word Process Operators
+be paid "danger pay" as compensation
+for the extra strains they experienc-
+ed at the job. The payment of this
+danger money as compensation for ill
+health resulting from the introduc-
+tion of new office machinery seems a
+very short-sighted and reactionary
+tactic for a trade union to adopt.
+Unfortunately, there are many parallel
+examples to be found in industry
+health and safety. Campaigns need to
+be mounted to eradicate the basic
+hazards, not absorb them for a few
+extra dollars a year.
+
+One further stage in the automation
+of office work is the integration of
+word processing machinery into the
+telecommunications network. Satellite
+mail can transfer, for example, a
+letter from one office to another any-
+where in the world - eliminating the
+need for postal staff. Manufacturers
+are encouraged by the fact that equip-
+ment costs continue to fall.
+
+Another new development involves
+the capabilities of computers linked
+to a modified television set via the
+telephone. This will affect office
+work as well as being available to
+private households. This new medium,
+viewdata, has been devised for pro-
+ducing, storing and communicating
+selected information from a vast data
+bank. The system is currently being
+exploited by television companies
+and the post office in England.
+
+Banking has been at the forefront
+of computerization with a wide-spread
+switch to electronic storage of in-
+formation on customer accounts. Non-
+cash transactions are estimated to
+triple between 1970 and 1980. The
+first stage was the creation of cen-
+tral records of customer accounts
+accessed by terminals located in bank
+branches. The second area of compu-
+terization has been inter-bank trans-
+fers. Data transmission between com-
+puter centers is now taking over from
+postal communication as the main
+method of transferring money between
+banks. Cash dispensers can identify
+customers and carry out transactions.
+Electronic funds transfer systems
+could be introduced where cash trans-
+actions are replaced by credit at the
+point of sale, with the funds being
+transferred from buyer to seller
+electronically.
+
+In insurance, the introduction of
+computers has followed a similar
+pattern. The Nora report on "L'infor-
+matisation de la société," commissioned
+by the French Government predicted
+that the banking and insurance sec-
+tions would lose 30 percent of their
+employees over the next ten years as
+a result of automation.
+
+In commerce, the most significant
+development has been the link of auto-
+matic inventory control cash registers.
+Sales recorded on cash registers in
+the store can be automatically relay-
+ed to a computer in a central ware-
+house. This calculates the demand
+for replacement goods from the manu-
+facturer and issues orders for goods
+to be delivered to the store when its
+stock levels fall to a minimum level.
+These surveillance techniques also
+record how fast and accurately each
+employee works.
+
+So far, large employment reductions
+as a result of technological change
+have been restricted to particular
+industries, such as printing and pub-
+lishing or the watch industry in
+Switzerland. In future, the changes
+in productivity resulting from the
+application of the new technologies
+are likely to have a very significant
+impact on employment in the labor-in-
+tensive service industries. If the
+rate of growth of output in the office
+sector continues at the past rate of
+approximately six percent, then em-
+ployment of office staff could fall
+by 20-25% over the next ten years.
+This could mean that of the 18-19
+million typists and secretaries in
+Western Europe, five million could
+lose their jobs in the next ten years.
+The estimates for the manufacturing
+sector are equally high.
+
+Although the development of micro-
+processors may lead to new markets
+for information products and conse-
+quently increased employment in some
+areas, contrarily, their application
+in new industries or services will
+lead to decreased employment. The
+microprocessor manufacturing industry
+itself is not apparently labor-inten-
+sive. One forecast suggests that the
+mass market in 1981 for the most
+advanced silicon chip will be 20,000
+devices a year and will require less
+than 1,000 people to manufacture.
+Unlike the 19th century industrial
+revolution where steam power replaced
+physical labor, but was associated
+with such an expansion in demand and
+markets that there was increased
+demand for labor to tend the machines,
+in the new industrial "revolution"
+more jobs are likely to be lost than
+gained.
+
+Demographic trends compound the
+situation. The labor force will be
+younger and 2.4 million larger by
+1991 and an even higher proportion
+of married women will be seeking
+work.
+
+How will women be affected or
+involved? Women now comprise about
+two-fifths of the workforce. Most of
+these women's earnings are essential
+to the family budget. Women work
+primarily in service industries and
+particularly in those likely to be
+adversely affected by microelectronics.
+
+It is not unlikely that the hoary
+old attitudes will be resurrected.
+Women are often considered a soft
+option for unemployment. As after
+the wars, women will no longer be
+needed in the labor force, so charg-
+es may be made that women are "steal-
+ing" jobs from men; there may be
+increased emphasis on the importance
+of mothers personally caring for their
+young children; the limited effects
+of the Equal Pay and Sex Discrimination
+Acts could be partially dissipated as
+women workers in offices, banks and
+shops will find their traditional job
+opportunities blocked and their promotional prospects lessened still further.
+
+The health of women workers who
+stay in employment could suffer.
+Visual display unit operators -
+mainly women - feel stress, resulting
+in eye problems, dizziness, fatigue,
+claustrophobia, although it is argued
+that a properly sited VDU, coupled
+with sufficient and frequent rest
+periods, would not be harmful.
+
+Some companies screen workers for
+eye defects before employing them on
+VDUs. However, screened workers are as
+vulnerable to the health risks creat-
+ed by these machines as those who
+were rejected. As with the payment of
+danger money, it is again a diversion
+from the need to work for the elimina-
+tion of any health hazard.
+
+Where the computer does not elimina-
+te the need for a human operator al-
+together, it has been associated with
+an increase in the intensity of work,
+whether this be for design engineer
+or typist. Automation has been obser-
+ved to make jobs short-cycled and
+repetitive. The room for decision
+making is reduced, the pace of work
+and attitude to work becomes determin-
+ed by the machine. Work performance
+can be recorded and monitored. All
+this creates feelings of frustration,
+alienation and stress, and this af-
+fects the worker's health.
+
+One area in which the scope for
+female employment may increase is
+education. People of all ages from 5
+upwards will need to be trained or
+retrained; will need to learn how to
+live with computers in their homes;
+will have to adapt to a leisure so-
+ciety and to learn how to fill the
+space left by work. Some believe that
+knowledge will replace land, labor
+and capital as the fundamental element
+in industry, creating long-term struc-
+tural unemployment, so we must engage
+in a massive and therefore labor
+intensive expansion of the education
+system. Such a system should be
+relevant to current social needs,
+pleasurable and designed to upgrade
+the all-essential knowledge base.
+Whether this will happen is another
+question.
+
+If this rate of technological
+change does become an accepted part
+of our lives, it could produce other
+positive changes in women's employ-
+ment prospects. An environment where
+workers would expect to perform sev-
+eral different types of jobs during
+their working lives, punctuated by
+periods of appropriate training, may
+emerge. In this environment, years
+spent raising children would not
+have the same dramatic effect on
+mother's career prospects as happens
+now.
+
+Microelectronics will also affect
+women in the other side of their
+working lives - at home. It has been
+argued that certain occupations and
+professions could become home-based
+"cottage" industries. This could
+have both positive and negative
+implications - it enables people who
+are tied to their homes - mothers
+breastfeeding, with young children,
+handicapped - to enter the workforce.
+However, workers could become isola-
+ted despite sophisticated communica-
+tion methods. Apart from losing any
+potential social pleasure or stimu-
+lus which may be derived from work,
+workers are very susceptible to ex-
+ploitation where trade unions cannot
+organize effectively (as homeworkers
+find now).
+
+With employment prospects shrinking,
+women should perhaps be looking for-
+ward to starting all those activities
+that they have been unable to begin
+for so long. However, there would
+have to be a considerable change in
+emphasis in the male-oriented and
+costly leisure business before this
+could happen. At present, women usual-
+ly make it possible for men to have
+leisure while they stay at home with
+the children, do the garden, look
+after the house.
+
+It is the way that we cope with the
+"temporary employee displacement"
+that is so important. In Britain,
+attempts to understand and plan for
+the future are now being made. They
+have provided for a study of advanced
+office technology looking at how tele-
+communications might enable more
+people to work at home and the train-
+ing they would require. But such
+worthwhile initiatives appear minimal, set
+against the potential for future
+change.
+
+We must fight how we distribute
+the wealth within this country, un-
+less we want a few millionaire chip
+designers and everyone else out of
+work.
+
+A basic social wage should be
+developed, available to all those
+who do not work - this should alter
+the prevailing attitude which pro-
+motes the desirability of work. Women
+must become fully involved in their
+trade unions, wherever possible.
+
+We should work toward the eradication
+of basic health hazards, better con-
+ditions for part-time workers, the
+swift creation of retraining schemes
+for workers with outmoded skills.
+
+Although it is possible that some
+greatly desired social ideals could
+be incorporated into this future,
+it seems unlikely that this will
+happen unless we start asserting our-
+selves and demand control of all
+aspects of our lives.
+
+Reprinted from Women's Report, a
+feminist newspaper from England.

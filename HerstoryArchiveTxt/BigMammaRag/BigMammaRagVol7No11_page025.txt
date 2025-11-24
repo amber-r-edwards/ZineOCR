@@ -1,0 +1,70 @@
+IMPORTANT: Process the ENTIRE text from beginning to end. Do not stop early or truncate.
+
+Rules:
+1. Fix obvious OCR errors (like '0' instead of 'O', '1' instead of 'l')
+2. Preserve the original line breaks and text blocks.
+3. Preserve the original meaning and historical context.
+4. Do not add any additional text.
+5. Do not delete any text.
+6. Process EVERY line - do not skip any content.
+
+Corrected text:
+
+Start 1980 Right
+
+Give BMR As A Gift: | Give BMR A Gift:
+
+Subscription Form Donation Pledge
+
+I would like to help support BMR
+in the amount of:
+$____ Oars $15 other
+
+Please send a one-year sub to:
+
+NAME __
+
+ADDRESS __ NAME
+
+$50 Lifetime Sub/$10 Sustainer/
+$6 Individual Sub/$10 Overseas
+
+ADDRESS
+
+BIG MAMA RAG, 1724 Gaylord, Denver,
+Colorado, 80206.
+
+BIG MAMA RAG, 1724 Gaylord, Denver,
+Colorado, 80206.
+
+...and remember we won't be
+publishing in January.
+
+See you in February!
+
+SUB NOTICE
+
+To save both money and time, Big Mama Rag is no longer mailing out individual subscription
+notices. To let you know when you need to renew your subscription, the month and year of
+expiration are printed on the label with your name. For example, 12/79 means that this is
+your last issue! :
+
+Big Mama Rag Big Mama Rag Bulk Rate
+
+1724 Gaylord Street 1724 Gaylord St. U.S. Postage
+Denver, Colorado 80206 Denver, CO 80206 PAID
+Denver, CO
+
+Name Permit No. 1512
+
+Address 9/78
+
+Merlin Stone
+184 6th Ave,
+New York, NY 10013
+
+Zip
+
+$50 Lifetime Sub $12 Institution
+$10 Sustainer $10 Overseas
+$6 Individual Sub
