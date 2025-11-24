@@ -13,7 +13,7 @@ Optimizations:
 """
 
 import pandas as pd # type: ignore
-import numpy as np
+import numpy as np # type: ignore
 from datetime import datetime
 import re
 from pathlib import Path
