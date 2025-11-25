@@ -1,0 +1,33 @@
+IMPORTANT: Process the ENTIRE text from beginning to end. Do not stop early or truncate.
+
+Rules:
+1. Fix obvious OCR errors (like '0' instead of 'O', '1' instead of 'l')
+2. Preserve the original line breaks and text blocks.
+3. Preserve the original meaning and historical context.
+4. Do not add any additional text.
+5. Do not delete any text.
+6. Process EVERY line - do not skip any content.
+
+Original OCR text:
+:
+3
+:
+;
+6
+
+vol
+
+nov/dec 1973
+
+
+
+Corrected text:
+:
+3
+:
+;
+6
+
+vol
+
+nov/dec 1973
